@@ -1,3 +1,0 @@
-/home/sayak/htrs/rover-project/build/CMakeFiles/RoverProject.dir
-/home/sayak/htrs/rover-project/build/CMakeFiles/edit_cache.dir
-/home/sayak/htrs/rover-project/build/CMakeFiles/rebuild_cache.dir
